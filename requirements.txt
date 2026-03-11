@@ -1,0 +1,13 @@
+pymongo 
+fastapi
+uvicorn 
+gunicorn
+gridfs
+nltk
+reportlab
+concurrent
+deep_translator
+fitz
+pdf2image
+pytesseract
+multiprocessing
