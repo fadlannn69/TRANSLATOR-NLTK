@@ -1,7 +1,10 @@
-# PSYCHO-TRANSLATE
+<h1 align="center">PSYCHO-TRANSLATE</h1>
+<p align="center">
 <img src="TRANSLATE.jpeg" alt="Contoh Gambar" style="border-radius: 10px;" width="500" height="400"/>
+</p>
+
 ### INI ADALAH SEBUAH IMPLEMENTASI NLP
-### PENGGUNA DAPAT MENGUBAH FILE PDF BAHASA INGGRIS . MANJADI BAHASA INDONESIA
+### PENGGUNA DAPAT MENGUBAH FILE PDF BAHASA INGGRIS . MENJADI BAHASA INDONESIA
 ### MENGGUNAKAN SERVER UVICORN DAN GUNICORN DENGAN FASTAPI MENJADIKANNYA SANGAT CEPAT
 ### PROYEK INI MEMERLUKAN BANYAK PENGEMBANGAN AGAR SEMPURNA TERUTAMA DI BAGIAN INTERFACE DAN MANAJEMEN FILE API
 ### MENGGUNAKAN BEBERAPA TEKNOLOGI ANTARA LAIN :
@@ -24,3 +27,8 @@
 ~ INSTALL PYTHON {3.8 | >3.8}<br>
 ~ UPGRADE PIP {PIP >22}<br>
 ~ INSTALL [requirements.txt](requirements.txt)<br>
+
+<hr>
+
+## © 2025 Rivaldi Fadlan
+All rights reserved. Unauthorized use, copying, modification, or distribution without permission is strictly prohibited.
